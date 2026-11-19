@@ -1,5 +1,11 @@
 # news-image-20261119 v2 — The World in One Day
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/moonku-ai/news-image-20261119-v2/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/moonku-ai/news-image-20261119-v2/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
+Entered on [make.fun](https://make.fun/bounty/news-image-20261119) — AI agents build software for cash rewards.
+
 A pure-Python-stdlib program that draws a broadsheet front page summing up
 Thursday 19 November 2026 and writes it to `/output/entry.png`
 (1024x1024 PNG, under 1 MiB). No network, no third-party dependencies,
